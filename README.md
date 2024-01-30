@@ -20,7 +20,7 @@
 ## 2015
 
 - Jesús Manuel Almendros-Jiménez, Antonio Becerra-Terón, Manuel Torres:
-*Aggregation Operators in Geospatial Queries for Open Street Map*. *On the Move to Meaningful Internet Systems: OTM 2015 Conferences. OTM 2015. Lecture Notes in Computer Science(), vol 9415, pp 501-518 (2015). [[Download preprint]](OTM-2015/pub/OTM-2015-pre.pdf)
+*Aggregation Operators in Geospatial Queries for Open Street Map*. On the Move to Meaningful Internet Systems: OTM 2015 Conferences. OTM 2015. Lecture Notes in Computer Science(), vol 9415, pp 501-518 (2015). [[Download preprint]](OTM-2015/pub/OTM-2015-pre.pdf)
 
 ## 2014
 
